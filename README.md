@@ -1,23 +1,102 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bahuguna</h1>
-<h3 align="center">I am a MERN Stack Developer from India</h3>
+<h3 align="center">Frontend Developer | MERN Stack Developer | React Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekb27&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekb27" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-seven-woad.vercel.app/](https://my-portfolio-seven-woad.vercel.app/)
-
-- 💬 Ask me about **React, Tailwindcss**
-
-- 📫 How to reach me **akstyles27@gmail.com**
-
-- 📄 Know about my experiences [https://my-portfolio-seven-woad.vercel.app/](https://my-portfolio-seven-woad.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek bahuguna" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishek.bahuguna.904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek.bahuguna.904" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+%7C+Next.js+Developer;GSAP+Animation+Lover;Building+Modern+Web+Apps&center=true&width=500&height=45">
+</p>
+
+---
+
+# 🚀 About Me
+
+- 💻 MERN Stack Developer  
+- ⚛️ Specialized in **React & Next.js**  
+- 🎨 Love building **smooth UI animations using GSAP**  
+- 🔗 Building **real-time apps with Socket.IO**  
+- 🌱 Currently learning **Advanced React & Performance Optimization**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 💬 Real-time Chat Application
+- One-to-one chat
+- Group chats
+- Typing indicators
+- Online/offline status
+- Message seen status  
+**Tech:** MERN + Socket.IO
+
+---
+
+### 🎮 Multiplayer Number Game
+- Choose number between **0 - 100**
+- Winner closest to **0.8 × average**
+- Real-time leaderboard
+- Host-controlled rounds  
+**Tech:** Next.js + Socket.IO + Supabase
+
+---
+
+### 🎨 GSAP Animation Components
+- Scroll animations
+- Interactive UI components
+- Smooth modern animations
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank"><img align="center"
+src="https://skillicons.dev/icons?i=github" height="40" /></a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center"
+src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com"><img align="center"
+src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
+
+---
+
+⭐️ From **Abhishek Bahuguna**
